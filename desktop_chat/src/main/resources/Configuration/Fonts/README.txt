@@ -1,0 +1,1 @@
+If you would like to change fonts used in BotMaker, just change the file mantaining its name and ttf format.

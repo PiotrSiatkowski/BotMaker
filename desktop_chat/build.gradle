@@ -1,0 +1,17 @@
+
+task buildAndCopy(dependsOn: build, type: Copy) {
+    group = 'build'
+
+    from 'build/libs'
+    into '../desktop_maker/Export'
+}
+
+jar {
+    jar.archiveName = "BotChat.jar"
+
+    from {
+        (configurations.runtime).collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+}
