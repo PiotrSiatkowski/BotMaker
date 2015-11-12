@@ -42,7 +42,6 @@ local.properties
 *.sln.docstates
 
 # Build results
-
 [Dd]ebug/
 [Rr]elease/
 x64/
@@ -68,14 +67,14 @@ build/
 *.tlb
 *.tli
 *.tlh
-*.tmp
+#*.tmp
 *.tmp_proj
 *.log
 *.vspscc
 *.vssscc
 .builds
 *.pidb
-*.log
+#*.log
 *.scc
 
 # Visual C++ cache files
@@ -194,7 +193,7 @@ $RECYCLE.BIN/
 *.egg
 *.egg-info
 dist/
-build/
+#build/
 eggs/
 parts/
 var/
@@ -267,3 +266,14 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+#################
+## Gradle
+#################
+.gradle/*
+
+#################
+## Conventional
+#################
+*/logs/
+*/Logs/
