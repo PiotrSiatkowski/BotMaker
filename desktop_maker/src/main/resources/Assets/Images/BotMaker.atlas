@@ -1,0 +1,635 @@
+
+BotMaker.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AboutBackground
+  rotate: false
+  xy: 1, 612
+  size: 833, 400
+  orig: 833, 400
+  offset: 0, 0
+  index: -1
+LightWoodBackground
+  rotate: false
+  xy: 1, 210
+  size: 833, 400
+  orig: 833, 400
+  offset: 0, 0
+  index: -1
+WoodBackground
+  rotate: false
+  xy: 836, 612
+  size: 833, 400
+  orig: 833, 400
+  offset: 0, 0
+  index: -1
+WoodBackground2
+  rotate: false
+  xy: 836, 210
+  size: 833, 400
+  orig: 833, 400
+  offset: 0, 0
+  index: -1
+WoodBackgroundDark
+  rotate: false
+  xy: 1671, 612
+  size: 833, 400
+  orig: 833, 400
+  offset: 0, 0
+  index: -1
+Canvas
+  rotate: false
+  xy: 1671, 358
+  size: 688, 252
+  orig: 688, 252
+  offset: 0, 0
+  index: -1
+MenuBar
+  rotate: false
+  xy: 1, 166
+  size: 833, 42
+  orig: 833, 42
+  offset: 0, 0
+  index: -1
+SmallWoodBackground
+  rotate: false
+  xy: 2506, 682
+  size: 500, 330
+  orig: 500, 330
+  offset: 0, 0
+  index: -1
+TextFieldOff
+  rotate: false
+  xy: 1671, 322
+  size: 687, 34
+  orig: 687, 34
+  offset: 0, 0
+  index: -1
+TextFieldOn
+  rotate: false
+  xy: 1, 130
+  size: 687, 34
+  orig: 687, 34
+  offset: 0, 0
+  index: -1
+MessageGrey
+  rotate: false
+  xy: 836, 177
+  size: 682, 31
+  orig: 682, 31
+  offset: 0, 0
+  index: -1
+MessageRed
+  rotate: false
+  xy: 3008, 981
+  size: 682, 31
+  orig: 682, 31
+  offset: 0, 0
+  index: -1
+EmptyPortrait
+  rotate: false
+  xy: 3008, 679
+  size: 235, 300
+  orig: 235, 300
+  offset: 0, 0
+  index: -1
+MyBotsButton
+  rotate: false
+  xy: 1671, 253
+  size: 206, 67
+  orig: 206, 67
+  offset: 0, 0
+  index: -1
+PublishButton
+  rotate: false
+  xy: 1, 61
+  size: 206, 67
+  orig: 206, 67
+  offset: 0, 0
+  index: -1
+TeachButton
+  rotate: false
+  xy: 2506, 613
+  size: 206, 67
+  orig: 206, 67
+  offset: 0, 0
+  index: -1
+TestMeButton
+  rotate: false
+  xy: 3245, 912
+  size: 206, 67
+  orig: 206, 67
+  offset: 0, 0
+  index: -1
+ScrollBar
+  rotate: false
+  xy: 2361, 418
+  size: 16, 192
+  orig: 16, 192
+  offset: 0, 0
+  index: -1
+LoadingCircle
+  rotate: false
+  xy: 3245, 816
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+Condition
+  rotate: false
+  xy: 1879, 265
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+ConditionHover
+  rotate: false
+  xy: 1, 4
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+Context
+  rotate: false
+  xy: 209, 73
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+ContextHover
+  rotate: false
+  xy: 2714, 625
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+Random
+  rotate: false
+  xy: 3453, 924
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+RandomHover
+  rotate: false
+  xy: 2379, 555
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+Recursion
+  rotate: false
+  xy: 1993, 265
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+RecursionHover
+  rotate: false
+  xy: 323, 73
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+Variables
+  rotate: false
+  xy: 2828, 625
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+VariablesHover
+  rotate: false
+  xy: 3567, 924
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+MoreHover
+  rotate: false
+  xy: 1671, 210
+  size: 113, 41
+  orig: 113, 41
+  offset: 0, 0
+  index: -1
+Submit
+  rotate: false
+  xy: 2107, 279
+  size: 113, 41
+  orig: 113, 41
+  offset: 0, 0
+  index: -1
+SubmitHover
+  rotate: false
+  xy: 437, 87
+  size: 113, 41
+  orig: 113, 41
+  offset: 0, 0
+  index: -1
+Publish
+  rotate: false
+  xy: 2379, 512
+  size: 112, 41
+  orig: 112, 41
+  offset: 0, 0
+  index: -1
+PublishOn
+  rotate: false
+  xy: 2222, 279
+  size: 112, 41
+  orig: 112, 41
+  offset: 0, 0
+  index: -1
+More
+  rotate: false
+  xy: 552, 89
+  size: 111, 39
+  orig: 111, 39
+  offset: 0, 0
+  index: -1
+Accept
+  rotate: false
+  xy: 3341, 872
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+AcceptHover
+  rotate: false
+  xy: 3453, 884
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+Cancel
+  rotate: false
+  xy: 2379, 472
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+CancelHover
+  rotate: false
+  xy: 3341, 832
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ConditionAdd
+  rotate: false
+  xy: 3453, 844
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ConditionAddHover
+  rotate: false
+  xy: 3565, 884
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ConditionBlue
+  rotate: false
+  xy: 2379, 432
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ConditionBlueHover
+  rotate: false
+  xy: 3565, 844
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ConditionRed
+  rotate: false
+  xy: 690, 126
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ConditionRedHover
+  rotate: false
+  xy: 1520, 170
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RandomViolet
+  rotate: false
+  xy: 1632, 170
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RandomVioletHover
+  rotate: false
+  xy: 3692, 974
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RecursionBlue
+  rotate: false
+  xy: 3804, 974
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RecursionBlueHover
+  rotate: false
+  xy: 3916, 974
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RecursionGreen
+  rotate: false
+  xy: 3681, 934
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RecursionGreenHover
+  rotate: false
+  xy: 3793, 934
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RecursionRed
+  rotate: false
+  xy: 3905, 934
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+RecursionRedHover
+  rotate: false
+  xy: 3245, 776
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+WildcardBlue
+  rotate: false
+  xy: 3245, 736
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+WildcardBlueHover
+  rotate: false
+  xy: 3245, 696
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+WildcardRed
+  rotate: false
+  xy: 115, 21
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+WildcardRedHover
+  rotate: false
+  xy: 227, 33
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+ButtonMinus
+  rotate: false
+  xy: 339, 38
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+ButtonMinusHover
+  rotate: false
+  xy: 1786, 218
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+MyBotsIcon
+  rotate: false
+  xy: 2942, 619
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Directory
+  rotate: false
+  xy: 3005, 620
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+DirectoryOn
+  rotate: false
+  xy: 3078, 620
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+ButtonPlus
+  rotate: false
+  xy: 3151, 644
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+ButtonPlusHover
+  rotate: false
+  xy: 3245, 661
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+MyBotsIconHover
+  rotate: false
+  xy: 3357, 769
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+PublishIcon
+  rotate: false
+  xy: 3357, 706
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+PublishIconHover
+  rotate: false
+  xy: 4028, 951
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+TeachIcon
+  rotate: false
+  xy: 1880, 202
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+TeachIconHover
+  rotate: false
+  xy: 1943, 202
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+TestMeIcon
+  rotate: false
+  xy: 2006, 202
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+TestMeIconHover
+  rotate: false
+  xy: 2069, 202
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+AddButton
+  rotate: false
+  xy: 2132, 218
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+OperationButton
+  rotate: false
+  xy: 2193, 226
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+OperationButtonHover
+  rotate: false
+  xy: 2246, 226
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+CheckBoxYes
+  rotate: false
+  xy: 1744, 166
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Exit
+  rotate: false
+  xy: 1786, 181
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+ExitOn
+  rotate: false
+  xy: 2299, 242
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Help
+  rotate: false
+  xy: 1823, 181
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+HelpOn
+  rotate: false
+  xy: 802, 129
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Minimalize
+  rotate: false
+  xy: 3420, 795
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+MinimalizeOn
+  rotate: false
+  xy: 3420, 758
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+ScrollBarSwing
+  rotate: false
+  xy: 2361, 384
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+BlackBackground
+  rotate: false
+  xy: 2336, 300
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Prompt
+  rotate: false
+  xy: 2336, 300
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+ScrollBarArrowBot
+  rotate: false
+  xy: 2379, 414
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollBarArrowBotHover
+  rotate: false
+  xy: 665, 112
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollBarArrowUp
+  rotate: false
+  xy: 3151, 626
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollBarArrowUpHover
+  rotate: false
+  xy: 3339, 678
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Border
+  rotate: false
+  xy: 4017, 963
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ScrollBarLine
+  rotate: false
+  xy: 1, 1
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1

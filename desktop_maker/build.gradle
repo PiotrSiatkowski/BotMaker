@@ -1,0 +1,21 @@
+
+apply plugin: "application"
+
+mainClassName = "com.thetruthbeyond.desktop.BotMakerStarter"
+
+// If dev mode provide this argument. Uncomment it elsewhere.
+ run.args = ["dev_mode"]
+
+jar {
+    jar.archiveName = "BotMaker.jar"
+
+    from {
+        (configurations.runtime).collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+
+    manifest {
+        attributes("Main-Class": mainClassName )
+    }
+}

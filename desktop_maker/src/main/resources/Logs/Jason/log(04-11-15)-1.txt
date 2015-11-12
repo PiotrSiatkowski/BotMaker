@@ -1,0 +1,6 @@
+[21:19:31]
+          Human: w
+          Jason: I am sorry, my answers are limited. You must provide the right questions.
+[21:19:36]
+          Human: What is your hobby?
+          Jason: My hobby is gaming.

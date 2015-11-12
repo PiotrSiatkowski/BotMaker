@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Siata\Documents\Projekty\BotMaker\desktop_maker\Export\TemporaryBot.jar</jar>
+  <outfile>C:\Users\Siata\Desktop\Jason.exe</outfile>
+  <errTitle>An error has occured.</errTitle>
+  <cmdLine>BotChat</cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl/>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest/>
+  <icon>C:\Users\Siata\Documents\Projekty\BotMaker\desktop_maker\Export\Icon.ico</icon>
+  <jre>
+    <path/>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.7.0</minVersion>
+    <maxVersion>1.8.0</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>BotChat 1.0.0.0</txtFileVersion>
+    <fileDescription>BotChat - chat with me!</fileDescription>
+    <copyright>Copyleft (C) 2015 Piotr Siatkowski</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>BotChat 1.0.0.0</txtProductVersion>
+    <productName>BotChat</productName>
+    <companyName>The Truth Beyond</companyName>
+    <internalName>BotChat</internalName>
+    <originalFilename>Jason.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>

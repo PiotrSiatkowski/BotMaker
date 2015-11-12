@@ -1,0 +1,1 @@
+Specify the charset that will be used in BotMaker in order to communicate with your bots.

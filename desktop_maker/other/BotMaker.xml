@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Siata\Documents\Projekty\BotMaker\desktop_maker\build\libs\desktop_maker-1.0.jar</jar>
+  <outfile>BotMaker.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine>BotMaker</cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Siata\Documents\Projekty\BotMaker\desktop_maker\Icon.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.7.0</minVersion>
+    <maxVersion>1.8.0</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>BotMaker 1.0.0.0</txtFileVersion>
+    <fileDescription>BotMaker - Create your own chatbot using friendly graphical interface.</fileDescription>
+    <copyright>Copyleft (C) 2015 Piotr Siatkowski</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>BotMaker 1.0.0.0</txtProductVersion>
+    <productName>BotMaker</productName>
+    <companyName>The Truth Beyond</companyName>
+    <internalName>BotMaker</internalName>
+    <originalFilename>BotMaker.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
